@@ -2,6 +2,10 @@
 
 A personal portfolio for Girish Kumar, a first-year CSE student at BMSCE (2026–2030).
 
+Repository: https://github.com/logingmail200-maker/girish-code-lab
+
+Featured project: https://wherewas.onrender.com/
+
 ## Preview
 Run `python -m http.server 8088 --bind 127.0.0.1` in this folder, then open http://127.0.0.1:8088/.
 No installation or build step is required.
